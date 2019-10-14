@@ -7,7 +7,7 @@ public class Array1D {
 		final int ELEMENTS_ARRAY = 10;
 		// Types of declaration of arrays
 		// 1st Way
-		// 10 * will become a magic number because is not justfy
+		// 10 * will become a magic number because it is not justify
 		// int [] intArray = new int[10];
 		int [] intArray = new int[ELEMENTS_ARRAY];
 		char[] charArray = new char[ELEMENTS_ARRAY];
